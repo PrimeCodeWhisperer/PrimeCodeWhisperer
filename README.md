@@ -76,4 +76,4 @@ Let's build connections and foster collaborations! Feel free to reach out to me:
 
 ---
 
-**Welcome to my coding journey! I believe in not just writing error-free code but also continually learning and embracing new opportunities. Stay tuned for remarkable projects and insightful stories as we embark on this adventure together!**-
+**Welcome to my coding journey! I believe in not just writing error-free code but also continually learning and embracing new opportunities. Stay tuned for remarkable projects and insightful stories as we embark on this adventure together!**
