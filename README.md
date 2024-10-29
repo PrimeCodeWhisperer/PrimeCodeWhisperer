@@ -1,6 +1,6 @@
 # PrimeCodeWhisperer
 
-[![github-banner](https://user-images.githubusercontent.com/00000000/00000000/username-banner.png)](https://github.com/PrimeCodeWhisperer)
+![Header](./github-profile-header.png)
 
 ---
 
