@@ -39,8 +39,7 @@ Welcome to my GitHub profile! I am PrimeCodeWhisperer, just exploring the world 
 
 My passion for technology and coding is always evolving, and I love to explore new technologies and frameworks in the field. I enjoy working on web development and app development. If you have any projects or collaborations in mind feel free to connect with me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimeCodeWhisperer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeCodeWhisperer)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimeCodeWhisperer)
 
 
 ## Contact
