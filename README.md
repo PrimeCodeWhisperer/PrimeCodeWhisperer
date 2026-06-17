@@ -1,10 +1,5 @@
 # PrimeCodeWhisperer
 
-![Header](./github-profile-header.png)
-
----
-
-
 <p align="center">
   <a href="#about">About</a> •
   <a href="#skills">Skills</a> •
@@ -18,7 +13,7 @@
 
 **"Hello World!"**
 
-Welcome to my GitHub profile! I am PrimeCodeWhisperer, just exploring the world of software development.
+Welcome to my GitHub profile! I am Alex, a Full-Stack Developer currently studying Computer Science at Maastricht University.
 
 ## Skills
 
