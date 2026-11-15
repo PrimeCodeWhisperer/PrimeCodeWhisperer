@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am Alex, a Full-Stack Developer currently studyi
 
 My passion for technology and coding is always evolving, and I love to explore new technologies and frameworks in the field. I enjoy working on web development and app development. If you have any projects or collaborations in mind feel free to connect with me.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimeCodeWhisperer)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=PrimeCodeWhisperer)
 
 
 ## Contact
